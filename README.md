@@ -31,6 +31,7 @@ attach a 20 mm electrical tubing mast to.
 [Fiberglass tubing](https://www.ikh.fi/fi/aurauskeppi-lasikuitu-8mm-x-1520mm-era10)
 will be used as the so-called spreaders. To make tuning easier and more flexible, attachment
 of the antenna wire to the spreaders could be done with e.g. Finn-Savotta bungee cord and
-suitable adjustments and hooks. A spare 1:1 balun I already have from the old half-wave dipole.
+suitable adjustments and hooks. Same stuff should work as the insulators between the radiator
+and the reflector. A spare 1:1 balun I already have from the old half-wave dipole.
 
 The only bit that is more "elaborate" is the centerpiece that joins the mast and the spreaders.
