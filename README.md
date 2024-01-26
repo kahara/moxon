@@ -22,3 +22,15 @@ current antenna for 6 meters in the outdoors is a simple unsupported dipole, whi
 trees or other attachment points. Being able to set the stations up anywhere and aim freely
 helps. I'm guesstimating that the combined surface area of the antenna and stand will be low
 enough for there not to be any stability issues on "normal" (i.e., non-stormy) wind conditions.
+Let's see how that goes.
+
+## Construction
+
+A friend has promised to donate an old camera stand for this purpose, and also a clamp to
+attach a 20 mm electrical tubing mast to.
+[Fiberglass tubing](https://www.ikh.fi/fi/aurauskeppi-lasikuitu-8mm-x-1520mm-era10)
+will be used as the so-called spreaders. To make tuning easier and more flexible, attachment
+of the antenna wire to the spreaders could be done with e.g. Finn-Savotta bungee cord and
+suitable adjustments and hooks. A spare 1:1 balun I already have from the old half-wave dipole.
+
+The only bit that is more "elaborate" is the centerpiece that joins the mast and the spreaders.
