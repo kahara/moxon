@@ -34,6 +34,10 @@ of the antenna wire to the spreaders could be done with e.g. Finn-Savotta bungee
 suitable adjustments and hooks. Same stuff should work as the insulators between the radiator
 and the reflector. A spare 1:1 balun I already have from the old half-wave dipole.
 
+*As an added bonus*, by leaving a little extra length in them, it should be possible to use the
+spreaders for setting up a wire [Yagi](https://en.wikipedia.org/wiki/Yagi%E2%80%93Uda_antenna),
+of several elements, for the 2-meter band (by rotating the horizontal plane 90°).
+
 ~~The only bit that is more "elaborate" is the centerpiece that joins the mast and the spreaders.
 Initial idea was/is to 3d print a mock-up of the centerpiece, something robust enough to
 support the spreader's weight, so that the antenna could be tested in "ideal" conditions. Then
