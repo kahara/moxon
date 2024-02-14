@@ -34,15 +34,23 @@ of the antenna wire to the spreaders could be done with e.g. Finn-Savotta bungee
 suitable adjustments and hooks. Same stuff should work as the insulators between the radiator
 and the reflector. A spare 1:1 balun I already have from the old half-wave dipole.
 
-The only bit that is more "elaborate" is the centerpiece that joins the mast and the spreaders.
+~~The only bit that is more "elaborate" is the centerpiece that joins the mast and the spreaders.
 Initial idea was/is to 3d print a mock-up of the centerpiece, something robust enough to
 support the spreader's weight, so that the antenna could be tested in "ideal" conditions. Then
 prepare the actual centerpiece from machined aluminum, for example. I have limited computer-aided
 design experience and zero 3d printing experience, but maybe this'll be a good excuse to test
-those waters a bit. [OpenSCAD](https://openscad.org/) seems like a no-brainer choice from here.
+those waters a bit. [OpenSCAD](https://openscad.org/) seems like a no-brainer choice from here.~~
 
-I don't own a 3d printer, but luckily our local library has one. But the maximum time reservation
+(The centerpiece SHOULD NOT be of metal. Not sure how critical this is, or how big of a mass of
+metal one could get away with, but better not make this any more complicated than is necessary.)
+
+~~I don't own a 3d printer, but luckily our local library has one. But the maximum time reservation
 for that machine is six hours, which severely limits what can actually be printed. Which lead
 me to think that maybe a sparse model could be filled with some suitable material, creating a
 sort of composite? I don't know if this is a viable idea at all, but because it costs almost
-nothing, let's give it a go.
+nothing, let's give it a go.~~
+
+On the other hand, and as was already suggested to me elsewhere, the centerpiece could just be made
+from plywood, then attach appropriate pieces of plastic to that wood to attach the spreaders to.
+It'd still be necessary to manufacture an adapter to attach the centerpiece to the mast, but this
+should be doable within the six hour window mentioned above.
