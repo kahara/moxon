@@ -36,8 +36,14 @@ difference() {
     cylinder(adapter_height+2, mast_diameter/2, mast_diameter/2, true);
 }
 
-translate([0, 0, adapter_height*1.1])
-difference() {
-    cylinder(20, hole_diameter/2, mast_diameter/2, true);
-    cylinder(22, mast_diameter/2, mast_diameter*0.35, true);
+//translate([0, 0, adapter_height*1.1])
+//difference() {
+//    cylinder(20, hole_diameter/2, mast_diameter/2, true);
+//    cylinder(22, mast_diameter/2, mast_diameter*0.35, true);
+//}
+
+translate([-60, 0, 0]) {
+cylinder(plate_height, hole_diameter/2, hole_diameter/2, true);
+    translate([0, 0, plate_height])
+    cylinder(plate_height, mast_diameter/2, mast_diameter/2, true);
 }
