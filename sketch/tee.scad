@@ -1,8 +1,8 @@
 stub_diameter_max = 17.5;
-stub_diameter_min = 14.0;
-stub_length = 60.0;
+stub_diameter_min = 15.0;
+stub_length = 75.0;
 
-plate_length = 35.0 * 2.0;
+plate_length = 90;
 plate_width = 35.0;
 plate_depth = 6.0;
 
@@ -17,15 +17,15 @@ difference() {
     translate([15, 27.5, 0])
     cylinder(plate_depth, mount_hole_diameter/2, mount_hole_diameter/2);
 
-    translate([55, 7.5, 0])
+    translate([75, 7.5, 0])
     cylinder(plate_depth, mount_hole_diameter/2, mount_hole_diameter/2);
 
-    translate([55, 27.5, 0])
+    translate([75, 27.5, 0])
     cylinder(plate_depth, mount_hole_diameter/2, mount_hole_diameter/2);
 }
 
 translate([plate_length/2, plate_width/2, plate_depth])
 difference(){
-    cylinder(stub_length, stub_diameter_max, stub_diameter_min);
-    cylinder(stub_length, stub_diameter_max*0.65, stub_diameter_min*0.65);
+    cylinder(stub_length, stub_diameter_max/2, stub_diameter_min/2);
+    cylinder(stub_length, (stub_diameter_max*0.45)/2, (stub_diameter_min*0.45)/2);
 }
