@@ -1,5 +1,5 @@
-stub_diameter_max = 17.0;
-stub_diameter_min = 15.0;
+stub_diameter_max = 17.5;
+stub_diameter_min = 14.0;
 stub_length = 60.0;
 
 plate_length = 35.0 * 2.0;
